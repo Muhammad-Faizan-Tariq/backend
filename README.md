@@ -1,7 +1,7 @@
 # Backend
 This is the backend of our capstone project such as a Social Media App
 
-## How to run?
+## How to run? :thinking:
 
 Open the backend folder and run the following command
 
