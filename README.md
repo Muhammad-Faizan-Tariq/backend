@@ -10,7 +10,7 @@ npm install
 ```
 And Node Packages install with the name `node_modules` and after you need to run the following command
 ```
-nodemon index.js
+npm start
 ```
 then happily run on localhost with 
 `localhost:4000`
